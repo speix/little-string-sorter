@@ -9,7 +9,7 @@ and the remaining parts is the actual content to be put in order, sort them out 
 
 ##### Given List of strings:
 ```
-'q1 300 410 222',
+'q1 30 41 222',
 'b5 xi me nu',
 'br8 eat nim did',
 'w1 has uni gry',
@@ -28,7 +28,7 @@ and the remaining parts is the actual content to be put in order, sort them out 
 'w1 has uni gry',
 'b4 xi me nu',
 'b5 xi me nu',
-'q1 300 410 222',
+'q1 30 41 222',
 'a2 34 54 398',
 't2 34 54 398',
 'a3 34 54 410',
